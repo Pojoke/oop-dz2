@@ -1,5 +1,5 @@
 <?php
-require "class.php";
+require "user.php";
 
 $user = new User("add", "738297");
 
